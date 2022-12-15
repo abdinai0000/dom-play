@@ -5,7 +5,7 @@ html {
     background-image: url("../images/background.jpg");
     background-repeat: no-repeat;
     background-size: 2000px 1200px;
-    font-family: 'Quicksand', sans-serif;
+    font-family: 'Courier' 'Courier New', Courier, monospace;
     font-size: 0.95em;
     line-height: 1.5em;
 }
@@ -28,7 +28,7 @@ h1 {
 
 /* Adds google font to H1 for main pages */
 h1.page-header{
-    font-family: 'Spectral',serif;
+    font-family: 'courier', Sans-serif;
     -webkit-border-top-left-radius: 5px;
     -webkit-border-top-right-radius: 5px;
     -moz-border-radius-topleft: 5px;
